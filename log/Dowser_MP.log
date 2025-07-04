@@ -1,0 +1,23 @@
+Loading required package: ggplot2
+If you are using dowser in published research please cite Hoehn K, Pybus O, Kleinstein S (2022). Phylogenetic analysis of migration, differentiation, and class switching in B cells. PLoS Computational Biology. https://doi.org/10.1371/journal.pcbi.1009885.
+Warning messages:
+1: package ‘dowser’ was built under R version 4.4.1 
+2: package ‘ggplot2’ was built under R version 4.4.1 
+       50.41 real        48.26 user         1.05 sys
+           970227712  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+              221595  page reclaims
+                 542  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                1072  voluntary context switches
+               27946  involuntary context switches
+            27013670  instructions retired
+            22596419  cycles elapsed
+             1442560  peak memory footprint
