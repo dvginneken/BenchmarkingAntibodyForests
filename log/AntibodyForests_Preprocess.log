@@ -1,0 +1,24 @@
+Warning message:
+package ‘Platypus’ was built under R version 4.4.1 
+Warning: Setting 'trim.germlines' to TRUE will significantly increase computation time, please be patient!
+
+Warning: Please be aware of the number of cells excluded, when 'remove.divergent.cells' or 'complete.cells.only' is set to TRUE:
+There were 50 or more warnings (use warnings() to see the first 50)
+      708.89 real       625.03 user        42.68 sys
+           903364608  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+             2401216  page reclaims
+                 755  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                 923  voluntary context switches
+              328436  involuntary context switches
+            36994409  instructions retired
+            28619013  cycles elapsed
+             1573760  peak memory footprint
