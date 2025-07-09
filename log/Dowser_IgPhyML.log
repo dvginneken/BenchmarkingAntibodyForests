@@ -1,0 +1,22 @@
+Loading required package: ggplot2
+Warning message:
+In buildIgphyml(data, igphyml = exec, temp_path = file.path(dir,  :
+  Dowser igphyml doesn't mask split codons!
+    16111.44 real         0.67 user         1.19 sys
+            25559040  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+              180433  page reclaims
+                  73  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                  45  messages sent
+                  40  messages received
+                 250  signals received
+                 442  voluntary context switches
+               43901  involuntary context switches
+            45708052  instructions retired
+            38027552  cycles elapsed
+             1458944  peak memory footprint
