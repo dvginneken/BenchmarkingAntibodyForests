@@ -1,5 +1,4 @@
 library(AntibodyForests)
-source("~/Documents/GitHub/AntibodyForests/R/VDJ_import_IgBLAST_annotations.R")
 # Load clones
 load("outputs/Platypus_clones.RData")
 

@@ -1,5 +1,4 @@
 library(AntibodyForests)
-source("~/Documents/GitHub/AntibodyForests/R/Af_build.R")
 # Load clones
 load("outputs/Platypus_clones.RData")
 # Building trees using maximum likelihood
