@@ -27,7 +27,7 @@ Install [IgPhyML](https://igphyml.readthedocs.io/en/latest/index.html) via Docke
 docker pull immcantation/suite:4.6.0
 ```
 
-## Perfrom benchmarking
+## Perform benchmarking
 Run the bash scripts for preprocessing and tree reconstruction
 ```
 # example
